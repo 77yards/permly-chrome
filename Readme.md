@@ -4,9 +4,7 @@ Author: 77yards
 
 Tags: short, link, perm.ly, url, shortener, 77yards
 
-Requires at least: 3.5
-
-Tested up to: 16.0
+Tested up to: 22.0.1229.94
 
 Stable tag: 1.0
 
