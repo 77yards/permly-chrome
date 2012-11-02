@@ -1,4 +1,4 @@
-=== Chorome perm.ly Extension ===
+<H1>Chorme perm.ly Extension</H1>
 
 Author: 77yards
 
@@ -10,7 +10,7 @@ Stable tag: 1.0
 
 This extension uses the perm.ly API to generate short links for any links you select from browser.
 
-== Description ==
+<H2>Description</H2>
 
-This extension helps you to generate short links using the perm.ly API for aany links or page u select in browser.
+This extension helps you to generate short links using the perm.ly API for any links or page u select in browser.
 
