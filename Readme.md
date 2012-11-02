@@ -12,5 +12,5 @@ This extension uses the perm.ly API to generate short links for any links you se
 
 <H2>Description</H2>
 
-This extension helps you to generate short links using the perm.ly API for any links or page u select in browser.
+This extension helps you to generate short links using the perm.ly API for any links or page you select in browser.
 
